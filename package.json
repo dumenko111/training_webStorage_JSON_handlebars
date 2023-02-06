@@ -1,11 +1,10 @@
 {
   "name": "training_webstorage_json_handlebars",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm init -y",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/templates/index.html",
-    "build": "parcel build src/templates/index.js",
+    "dev": "parcel src/*.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,7 +12,7 @@
     "url": "git+https://github.com/dumenko111/training_webStorage_JSON_handlebars.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andriy Dumenko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dumenko111/training_webStorage_JSON_handlebars/issues"
